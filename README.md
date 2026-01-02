@@ -19,7 +19,7 @@ Project Structure
 
 Getting Started
 How to run locally
-Clone the Repository git clone https://github.com/Michaelsaju1/AIPI510_Project2.git
+Clone the Repository git clone https://github.com/SharmilNK/The-Azure-Effect.git
 cd AIPI510_Project2
 
 Create a virtual environment (optional but recommended):
